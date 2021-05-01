@@ -1,0 +1,11 @@
+2021-04-06 15:01:42.191 ERROR response_module.py response_module - response_exception:{'message': 'invalid input syntax for type integer: "None"\nLINE 3: ...\',\'runlength\',runlength ))from raw_data where run=\'None\' and...\n                                                             ^\n'}
+2021-04-06 15:42:40.492 ERROR response_module.py response_module - response_exception:{'message': 'syntax error at or near "("\nLINE 2: ... raw_data where run=\'1\' and obs_time=(select \'min\'(obs_time)...\n                                                             ^\n'}
+2021-04-06 16:15:56.976 ERROR response_module.py response_module - response_exception:{'message': "No module named 'djsms'"}
+2021-04-06 17:25:29.893 ERROR response_module.py response_module - response_exception:{'message': "'param_name'"}
+2021-04-06 17:25:52.633 ERROR response_module.py response_module - response_exception:{'message': "'param_name'"}
+2021-04-06 17:26:10.345 ERROR response_module.py response_module - response_exception:{'message': "'param_name'"}
+2021-04-06 17:26:27.949 ERROR response_module.py response_module - response_exception:{'message': "'param_name'"}
+2021-04-06 17:26:29.148 ERROR response_module.py response_module - response_exception:{'message': "'param_name'"}
+2021-04-06 17:26:51.896 ERROR response_module.py response_module - response_exception:{'message': "'param_name'"}
+2021-04-06 17:27:11.384 ERROR response_module.py response_module - response_exception:{'message': "'column'"}
+2021-04-06 17:28:35.825 ERROR response_module.py response_module - response_exception:{'message': "local variable 'column' referenced before assignment"}

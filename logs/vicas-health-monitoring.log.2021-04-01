@@ -1,0 +1,8 @@
+2021-04-01 12:51:54.335 ERROR response_module.py response_module - response_exception:{'message': 'tuple index out of range'}
+2021-04-01 12:52:15.648 ERROR response_module.py response_module - response_exception:{'message': 'tuple index out of range'}
+2021-04-01 13:16:52.678 ERROR response_module.py response_module - response_exception:{'message': "local variable 'data' referenced before assignment"}
+2021-04-01 13:16:54.152 ERROR response_module.py response_module - response_exception:{'message': "local variable 'data' referenced before assignment"}
+2021-04-01 13:16:54.654 ERROR response_module.py response_module - response_exception:{'message': "local variable 'data' referenced before assignment"}
+2021-04-01 13:34:45.735 ERROR response_module.py response_module - response_exception:{'message': 'Object of type DataFrame is not JSON serializable'}
+2021-04-01 22:37:13.610 ERROR response_module.py response_module - response_exception:{'message': 'invalid input syntax for type integer: "None"\nLINE 1: ...\'%\' as uom from public.optimised_data rd where rd.run=\'None\'\n                                                                 ^\n'}
+2021-04-01 22:49:46.717 ERROR response_module.py response_module - response_exception:{'message': 'column "runlength" does not exist\nLINE 2: ..., efrz2, \'Zone3\', efrz3,\'uom\',\'Kg/hr\',\'runlength\',runlength ...\n                                                             ^\n'}

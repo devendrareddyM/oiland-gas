@@ -1,0 +1,1 @@
+2021-04-23 14:33:41.949 ERROR response_module.py response_module - response_exception:{'message': 'column "result" does not exist\nLINE 1: select result,timestamp,image from vision_result_table \n               ^\n'}

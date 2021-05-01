@@ -1,0 +1,23 @@
+2021-04-02 22:14:21.665 ERROR response_module.py response_module - response_invalid_token:{'message': 'Token is invalid'}
+2021-04-02 22:15:12.130 ERROR response_module.py response_module - response_exception:{'message': "descriptor 'execute' of 'psycopg2.extensions.cursor' object needs an argument"}
+2021-04-02 22:17:14.956 ERROR response_module.py response_module - response_exception:{'message': "local variable 'cursor' referenced before assignment"}
+2021-04-02 22:17:49.962 ERROR response_module.py response_module - response_exception:{'message': 'expected str, bytes or os.PathLike object, not InMemoryUploadedFile'}
+2021-04-02 22:18:21.706 ERROR response_module.py response_module - response_exception:{'message': 'expected str, bytes or os.PathLike object, not InMemoryUploadedFile'}
+2021-04-02 22:19:32.723 ERROR response_module.py response_module - response_exception:{'message': "'DatabaseWrapper' object has no attribute 'copy_from'"}
+2021-04-02 22:19:52.228 ERROR response_module.py response_module - response_exception:{'message': 'extra data after last expected column\nCONTEXT:  COPY users, line 1: ",first_name,last_name,login_id,email_id,password,id"\n'}
+2021-04-02 22:21:17.693 ERROR response_module.py response_module - response_exception:{'message': 'extra data after last expected column\nCONTEXT:  COPY users, line 1: ",first_name,last_name,login_id,email_id,password,id"\n'}
+2021-04-02 22:22:33.330 ERROR response_module.py response_module - response_exception:{'message': 'missing data for column "last_name"\nCONTEXT:  COPY users, line 1: ",first_name,last_name,login_id,email_id,password,id"\n'}
+2021-04-02 22:23:43.716 ERROR response_module.py response_module - response_exception:{'message': 'argument 1 must have a .read() method'}
+2021-04-02 22:24:14.859 ERROR response_module.py response_module - response_exception:{'message': 'argument 1 must have a .read() method'}
+2021-04-02 22:26:08.863 ERROR response_module.py response_module - response_exception:{'message': 'extra data after last expected column\nCONTEXT:  COPY users, line 1: ",first_name,last_name,login_id,email_id,password,id"\n'}
+2021-04-02 22:31:38.595 ERROR response_module.py response_module - response_exception:{'message': 'extra data after last expected column\nCONTEXT:  COPY users, line 1: ",first_name,last_name,login_id,email_id,password,id"\n'}
+2021-04-02 22:31:40.055 ERROR response_module.py response_module - response_exception:{'message': 'extra data after last expected column\nCONTEXT:  COPY users, line 1: ",first_name,last_name,login_id,email_id,password,id"\n'}
+2021-04-02 22:31:41.710 ERROR response_module.py response_module - response_exception:{'message': 'extra data after last expected column\nCONTEXT:  COPY users, line 1: ",first_name,last_name,login_id,email_id,password,id"\n'}
+2021-04-02 22:32:19.065 ERROR response_module.py response_module - response_exception:{'message': 'extra data after last expected column\nCONTEXT:  COPY users, line 1: ",first_name,last_name,login_id,email_id,password,id"\n'}
+2021-04-02 22:32:20.400 ERROR response_module.py response_module - response_exception:{'message': 'extra data after last expected column\nCONTEXT:  COPY users, line 1: ",first_name,last_name,login_id,email_id,password,id"\n'}
+2021-04-02 22:39:13.652 ERROR response_module.py response_module - response_exception:{'message': "local variable 'f' referenced before assignment"}
+2021-04-02 22:39:36.534 ERROR response_module.py response_module - response_exception:{'message': "a bytes-like object is required, not 'str'"}
+2021-04-02 22:41:30.775 ERROR response_module.py response_module - response_exception:{'message': "a bytes-like object is required, not 'str'"}
+2021-04-02 22:43:56.020 ERROR response_module.py response_module - response_exception:{'message': "'psycopg2.extensions.cursor' object is not callable"}
+2021-04-02 22:45:08.558 ERROR response_module.py response_module - response_exception:{'message': 'Execution failed on sql \'SELECT name FROM sqlite_master WHERE type=\'table\' AND name=?;\': relation "sqlite_master" does not exist\nLINE 1: SELECT name FROM sqlite_master WHERE type=\'table\' AND name=?...\n                         ^\n'}
+2021-04-02 22:52:28.513 ERROR response_module.py response_module - response_exception:{'message': 'extra data after last expected column\nCONTEXT:  COPY users, line 1: "0,devendra,reddy,Dev123,devendra@gamil.com,dev@123,1"\n'}

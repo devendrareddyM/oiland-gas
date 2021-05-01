@@ -1,0 +1,4 @@
+2021-02-22 08:41:01.415 ERROR response_module.py response_module - response_exception:{'message': 'relation "public.process_tags" does not exist\nLINE 3: from public.process_tags pt\n             ^\n'}
+2021-02-22 08:41:27.614 ERROR response_module.py response_module - response_exception:{'message': 'relation "public.process_tags" does not exist\nLINE 3: from public.process_tags pt\n             ^\n'}
+2021-02-22 11:32:48.308 ERROR response_module.py response_module - response_exception:{'message': 'an integer is required (got type list)'}
+2021-02-22 11:33:13.203 ERROR response_module.py response_module - response_exception:{'message': 'an integer is required (got type list)'}
