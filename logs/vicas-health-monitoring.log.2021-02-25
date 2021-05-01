@@ -1,0 +1,1 @@
+2021-02-25 08:20:34.060 ERROR response_module.py response_module - response_exception:{'message': 'column "none" does not exist\nLINE 7: ...pm.param_name =\'None\' and zd.zone_name=\'None\' and run=None))\n                                                                 ^\n'}

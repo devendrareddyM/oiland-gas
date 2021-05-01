@@ -1,0 +1,6 @@
+2021-04-21 22:16:22.215 ERROR response_module.py response_module - response_exception:{'message': 'Object of type memoryview is not JSON serializable'}
+2021-04-21 22:25:23.756 ERROR response_module.py response_module - response_exception:{'message': "[Errno 2] No such file or directory: 'deer.jpg'"}
+2021-04-21 22:26:19.750 ERROR response_module.py response_module - response_exception:{'message': "[Errno 2] No such file or directory: 'deer.jpg'"}
+2021-04-21 22:26:47.613 ERROR response_module.py response_module - response_exception:{'message': 'expected bytes-like object, not str'}
+2021-04-21 22:29:10.559 ERROR response_module.py response_module - response_exception:{'message': 'expected bytes-like object, not str'}
+2021-04-21 22:35:34.510 ERROR response_module.py response_module - response_exception:{'message': "encode() missing 1 required positional argument: 'output'"}
